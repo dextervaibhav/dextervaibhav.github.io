@@ -115,9 +115,6 @@ vaibhav-3d-portfolio/
 ---
 
 ## 📬 Contact & Profiles
-
-- **Email**: vvsvsn7@gmail.com
-- **Phone**: +91-9369620500
 - **GitHub**: [github.com/dextervaibhav](https://github.com/dextervaibhav)
 - **HackerRank**: [FlyingMachine](https://www.hackerrank.com/profile/FlyingMachine)
 - **Website**: [dextervaibhav.github.io](https://dextervaibhav.github.io/)
