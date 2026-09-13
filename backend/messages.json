@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Recruiter Test",
+    "email": "recruiter@example.com",
+    "subject": "Interview Opportunity",
+    "message": "We would love to discuss a Senior Protocol Automation role.",
+    "created_at": "2026-09-13T17:45:28.040659"
+  }
+]
